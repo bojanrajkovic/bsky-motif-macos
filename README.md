@@ -155,3 +155,7 @@ from the stored app password.
   measured with `XmStringWidth`/Xft extents. Long lines are close, not
   pixel-perfect.
 - **No compose/reply/thread-view** — read + like/repost only, by scope.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
